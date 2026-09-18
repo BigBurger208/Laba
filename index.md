@@ -8,4 +8,4 @@ layout: default
 
 # Контакты
 - email: <bigburger208@gmail.com>
-- telegram : [@bigburger208]
+- telegram : @bigburger208
